@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rikhil.)](https://git.io/typing-svg)
 
 ### ✏️ Background:
-I'm a high school senior at Piedmont Hills HS interested in machine learning and physics. I also enjoy building things and competing in olympiads.
+I'm a high school senior at Piedmont Hills HS interested in software, machine learning, statistics, and physics. I also enjoy building things and competing in olympiads.
 
 ### 📈 GitHub Stats:
 
