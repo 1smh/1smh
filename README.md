@@ -16,7 +16,7 @@ I'm a high school senior at Piedmont Hills HS interested in machine learning and
   <a href="https://github.com/1smh">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nnnlik&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1smh&theme=aura"
     />
 </p>
 
@@ -24,7 +24,7 @@ I'm a high school senior at Piedmont Hills HS interested in machine learning and
  <a href="https://github.com/1smh">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnnLik&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1smh&theme=aura"
     />
 </p>
 
