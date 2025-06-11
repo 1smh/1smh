@@ -20,14 +20,6 @@ I'm a high school senior at Piedmont Hills HS interested in machine learning and
     />
 </p>
 
-<p align="center">
- <a href="https://github.com/1smh">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1smh&theme=aura"
-    />
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rikhiltanugula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
