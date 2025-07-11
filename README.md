@@ -2,10 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Rikhil.)
 
-### ✏️ Background:
-I'm a senior at Piedmont Hills High School interested in software, machine learning, statistics, and physics. I also enjoy building things and competing in olympiads.
 
-### 📈 GitHub Stats:
+I'm a senior at Piedmont Hills High School interested in software, machine learning, statistics, and physics. I also enjoy building things and competing in olympiads. Most of my repositories are private.
+
+
 
 <p align="center">
   <a href="https://github.com/1smh">
