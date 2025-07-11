@@ -28,7 +28,6 @@ I'm a senior at Piedmont Hills High School interested in software, machine learn
 </p>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=1smh.1smh" /></p> 
+<br><p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=1smh.1smh" /></p> 
 <br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
