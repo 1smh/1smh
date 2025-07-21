@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Rikhil.)
-
 
 I'm a senior at Piedmont Hills High School interested in software, machine learning, statistics, and physics. I also enjoy building things and competing in olympiads. Most of my repositories are private.
 <br><br><br>
